@@ -435,4 +435,17 @@ movie_db: List[Tuple[str, str, int, List[str]]] = [
             "spike lee",
         ],
     ),
+    (
+        "wicked",
+        "jon m chu",
+        2024,
+        [
+            "ariana grande",
+            "cynthia erivo",
+            "ethan slater",
+            "michelle yeoh",
+            "marissa bode",
+            "jonathan bailey",
+        ]
+    )
 ]

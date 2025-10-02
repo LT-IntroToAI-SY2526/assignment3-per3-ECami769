@@ -22,4 +22,4 @@ This assignment completes our movie chatbot system by implementing action functi
 
 
 
-3. What are some real-world applications where this type of pattern-matching chatbot system could be useful? How might you extend or improve this system for practical use?
+3. What are some real-world applications where this type of pattern-matching chatbot system could be useful? How might you extend or improve this system for practical use? It can be useful for research purposes such as a school project or something that you want to learn about. It's quick and provides a direct response. To extend this we can continue to add more information to the movie database. Additionally, if we really wanted to we could expand it to being not just a movie database, but also include shows or something like that. As for improvement for practical use, I'm not really sure how we could shorten some programming that we have written to make the process more practical.
